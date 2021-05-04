@@ -1,4 +1,5 @@
-;; tmmofl-x.el - major mode library for tmmofl
+;;; tmmofl-x.el --- Major mode library for tmmofl
+
 ;; $Revision: 1.2 $
 ;; $Date: 2000/01/25 14:21:06 $
 
